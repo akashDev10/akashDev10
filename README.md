@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there Here is what i m working on!!👋
 
-<!--
-**akashDev10/akashDev10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Spring kafka cloud
+- 🌱 I’m currently learning ... javaScript
+- 👯 I’m looking to collaborate on ... any spring boot or react project
+- 🤔 I’m looking for help with ... AWS
+- 💬 Ask me about ... backend and spring related dev and issue
+- 📫 How to reach me: ... akash.chakraborty10@gmail.com or +91-9051171504
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am super booring person if you are not a coder.
 -->
